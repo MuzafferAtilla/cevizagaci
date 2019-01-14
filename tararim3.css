@@ -1,0 +1,95 @@
+.rapor {
+	background-color:#F5F1EA;
+	font-weight: bold;
+	border-bottom-color:#784B39;
+	border-top:none;
+	border-left:none;
+	border-right-color:#784B39;
+	border-collapse: collapse;
+	color:#333;
+}
+.banner {
+	background-color:#784B39;
+	color:white;	
+	border: inset;
+	border-collapse: collapse;
+	border-bottom-color:#F5F1EA;
+	border-top-color:#784B39;
+	border-left-color:#784B39;
+	border-right-color:#784B39;
+}
+.banner3
+{
+	background-color:#784B39;
+	color:white;	
+	border: inset;
+	border-collapse: collapse;
+	border-bottom-color:#784B39;
+	border-top-color:#784B39;
+	border-left-color:#784B39;
+	border-right-color:#784B39;
+}
+
+
+
+
+
+
+
+
+
+
+
+.ana2 {
+	background-color:#F5F1EA;
+	color:white;
+	border: inset;
+    border-color: #784B39;
+	border-collapse: collapse;
+}
+
+.banner2
+{
+	font-weight: bold;
+	border: inset;
+	border-collapse: collapse;
+	border-color: #784B39;
+	background-color:#F5F1EA;
+}
+.ustbanner
+{
+	background-color:#F5F1EA;
+	color:#784B39;
+	border-color: #784B39;
+	font-size:23px;
+	font-weight: bold;
+}
+.menu
+{
+	border-bottom-color:#784B39;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+	border-collapse: collapse;
+}
+.menu2
+{
+	font-weight: bold;
+	border-bottom-color:#784B39;
+	border-top-color:#784B39;
+	border-left:none;
+	border-right:none;
+	border-collapse: collapse;
+}
+a:link
+	{
+	text-decoration: none;
+	}
+	a:visited
+	{
+	text-decoration: none;
+	}
+.arkatarih
+{
+	background-color:#F5F1EA;
+}
